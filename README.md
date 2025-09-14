@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
+| [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Greedy
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
+| [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
