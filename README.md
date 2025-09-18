@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
