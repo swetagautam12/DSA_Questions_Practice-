@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 ## Greedy
 |  |
 | ------- |
@@ -72,14 +73,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 ## Ordered Set
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 ## Dynamic Programming
 |  |
 | ------- |
