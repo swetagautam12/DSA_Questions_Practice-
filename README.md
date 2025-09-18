@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
