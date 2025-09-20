@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Linked List
 |  |
@@ -165,5 +167,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
