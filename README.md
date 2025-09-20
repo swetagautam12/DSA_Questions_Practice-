@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Greedy
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
+## Binary Search
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
+## Queue
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
