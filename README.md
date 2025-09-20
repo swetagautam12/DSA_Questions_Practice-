@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Recursion
 |  |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
 ## Sorting
 |  |
