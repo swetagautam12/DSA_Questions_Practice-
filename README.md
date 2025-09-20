@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0136-single-number) |
@@ -89,11 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 ## Number Theory
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
 ## Sorting
