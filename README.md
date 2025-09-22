@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
