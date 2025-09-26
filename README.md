@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
+| [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2023-design-movie-rental-system) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Linked List
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
+| [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 ## Queue
 |  |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 ## Backtracking
 |  |
 | ------- |
