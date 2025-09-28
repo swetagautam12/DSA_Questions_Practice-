@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2023-design-movie-rental-system) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Linked List
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 ## Simulation
 |  |
 | ------- |
