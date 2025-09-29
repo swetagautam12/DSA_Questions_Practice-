@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
