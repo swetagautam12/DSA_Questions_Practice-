@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -248,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
