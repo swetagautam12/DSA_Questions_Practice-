@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Simulation
 |  |
 | ------- |
