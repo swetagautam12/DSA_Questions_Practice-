@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0120-triangle) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
