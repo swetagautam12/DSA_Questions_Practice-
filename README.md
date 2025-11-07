@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1612-avoid-flood-in-the-city) |
