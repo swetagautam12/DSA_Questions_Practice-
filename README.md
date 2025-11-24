@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0136-single-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
