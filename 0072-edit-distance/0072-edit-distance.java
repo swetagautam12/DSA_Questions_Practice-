@@ -27,8 +27,8 @@ class Solution {
 
         }
         int min(int a , int b , int c ){
-            int L =Math.min(a,b);
-            return Math.min(L,c);
+            int l =Math.min(a,b);
+            return Math.min(l,c);
         }
 
         
