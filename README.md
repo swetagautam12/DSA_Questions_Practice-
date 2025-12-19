@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
+| [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
 ## Prefix Sum
 |  |
@@ -533,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
