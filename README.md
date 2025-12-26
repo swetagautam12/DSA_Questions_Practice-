@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0092-reverse-linked-list-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 ## Math
 |  |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -574,6 +577,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
+## Binary Tree
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
