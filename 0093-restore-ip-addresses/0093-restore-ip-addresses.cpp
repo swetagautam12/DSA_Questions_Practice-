@@ -17,7 +17,7 @@ public:
     {
         if(i >= n && parts == 4)
         {
-            curr.pop_back();    // remove last '.'
+            curr.pop_back();    
             res.push_back(curr);
             return;
         }
@@ -40,7 +40,7 @@ public:
 
     vector<string> restoreIpAddresses(string s) {
         n = s.length();
-        // if(n > 12) return {};
+        
 
         int parts = 0;
         string curr = "";
