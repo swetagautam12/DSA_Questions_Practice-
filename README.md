@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0091-decode-ways) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0944-delete-columns-to-make-sorted](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0944-delete-columns-to-make-sorted) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0152-maximum-product-subarray) |
