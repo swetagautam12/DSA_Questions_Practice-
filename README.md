@@ -606,4 +606,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
