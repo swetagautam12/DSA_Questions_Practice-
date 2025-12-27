@@ -616,4 +616,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0595-big-countries) |
+| [0607-sales-person](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
