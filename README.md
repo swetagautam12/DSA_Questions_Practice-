@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0050-powx-n) |
+| [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
