@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0093-restore-ip-addresses) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1006-vowel-spellchecker](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1006-vowel-spellchecker) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
+| [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Breadth-First Search
 |  |
