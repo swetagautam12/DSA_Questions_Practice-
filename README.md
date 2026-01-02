@@ -655,4 +655,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0607-sales-person) |
+| [1179-reformat-department-table](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1179-reformat-department-table) |
 <!---LeetCode Topics End-->
