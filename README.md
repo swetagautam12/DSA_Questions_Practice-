@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
