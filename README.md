@@ -588,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2092-find-all-people-with-secret) |
@@ -651,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
