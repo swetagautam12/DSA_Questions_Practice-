@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
+| [0058-length-of-last-word](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0072-edit-distance) |
