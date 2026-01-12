@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2119-a-number-after-a-double-reversal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
