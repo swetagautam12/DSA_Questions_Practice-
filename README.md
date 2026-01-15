@@ -727,4 +727,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3454-separate-squares-ii) |
+## Sweep Line
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
