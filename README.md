@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
+| [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0342-power-of-four) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1590-make-sum-divisible-by-p) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
