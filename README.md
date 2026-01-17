@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3336-water-bottles-ii) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1266-minimum-time-visiting-all-points) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Depth-First Search
 |  |
