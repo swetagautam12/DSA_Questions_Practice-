@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2174-next-greater-numerically-balanced-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
+| [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3074-apple-redistribution-into-boxes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
