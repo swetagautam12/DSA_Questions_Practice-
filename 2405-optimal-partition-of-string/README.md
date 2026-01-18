@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/optimal-partition-of-string">2405. Optimal Partition of String</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that the characters in each substring are <strong>unique</strong>. That is, no letter appears in a single substring more than <strong>once</strong>.</p>
+<h2><a href="https://leetcode.com/problems/optimal-partition-of-string">2487. Optimal Partition of String</a></h2><h3>Medium</h3><hr><p>Given a string <code>s</code>, partition the string into one or more <strong>substrings</strong> such that the characters in each substring are <strong>unique</strong>. That is, no letter appears in a single substring more than <strong>once</strong>.</p>
 
 <p>Return <em>the <strong>minimum</strong> number of substrings in such a partition.</em></p>
 
