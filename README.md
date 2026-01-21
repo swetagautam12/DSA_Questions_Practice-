@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
