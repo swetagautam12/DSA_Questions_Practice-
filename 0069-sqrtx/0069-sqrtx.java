@@ -51,4 +51,5 @@ class Solution {
  
     public int mySqrt(int target) {
         return sqrt_newton(target); 
+    }
 }
