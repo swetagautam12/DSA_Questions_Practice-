@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0077-combinations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0089-gray-code) |
