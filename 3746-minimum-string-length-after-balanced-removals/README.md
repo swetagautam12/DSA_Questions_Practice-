@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-string-length-after-balanced-removals">4090. Minimum String Length After Balanced Removals</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting only of the characters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimum-string-length-after-balanced-removals">3746. Minimum String Length After Balanced Removals</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting only of the characters <code>&#39;a&#39;</code> and <code>&#39;b&#39;</code>.</p>
 
 <p>You are allowed to repeatedly remove <strong>any <span data-keyword="substring-nonempty">substring</span></strong> where the number of <code>&#39;a&#39;</code> characters is equal to the number of <code>&#39;b&#39;</code> characters. After each removal, the remaining parts of the string are concatenated together without gaps.</p>
 
