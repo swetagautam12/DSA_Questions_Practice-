@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0713-subarray-product-less-than-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
