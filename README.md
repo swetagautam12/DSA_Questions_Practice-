@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3454-separate-squares-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3531-count-covered-buildings) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3531-count-covered-buildings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3583-count-special-triplets) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Math
 |  |
 | ------- |
@@ -402,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
@@ -412,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2023-design-movie-rental-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [3477-fruits-into-baskets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3678-design-task-manager](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3678-design-task-manager) |
 | [3827-implement-router](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3827-implement-router) |
 | [3863-power-grid-maintenance](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3863-power-grid-maintenance) |
@@ -550,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3477-fruits-into-baskets-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -779,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Database
 |  |
 | ------- |
