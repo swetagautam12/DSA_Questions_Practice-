@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3110-score-of-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3110-score-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
