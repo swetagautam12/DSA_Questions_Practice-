@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3110-score-of-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3110-score-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -574,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3336-water-bottles-ii) |
 | [3433-count-mentions-per-user](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3477-fruits-into-baskets-ii) |
