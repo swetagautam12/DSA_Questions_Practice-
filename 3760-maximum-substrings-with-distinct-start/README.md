@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/maximum-substrings-with-distinct-start">3760. Maximum Substrings With Distinct Start</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/maximum-substrings-with-distinct-start">4087. Maximum Substrings With Distinct Start</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> consisting of lowercase English letters.</p>
 
 <p>Return an integer denoting the <strong>maximum</strong> number of <span data-keyword="substring-nonempty">substrings</span> you can split <code>s</code> into such that each <strong>substring</strong> starts with a <strong>distinct</strong> character (i.e., no two substrings start with the same character).</p>
 
