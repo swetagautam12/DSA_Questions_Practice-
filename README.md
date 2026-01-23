@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0739-daily-temperatures](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0739-daily-temperatures) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0739-daily-temperatures](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1441-build-an-array-with-stack-operations) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
