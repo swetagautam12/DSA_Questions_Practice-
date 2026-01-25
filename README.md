@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2390-removing-stars-from-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2390-removing-stars-from-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2390-removing-stars-from-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3336-water-bottles-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3336-water-bottles-ii) |
