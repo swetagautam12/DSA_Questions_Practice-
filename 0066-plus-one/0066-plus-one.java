@@ -1,19 +1,19 @@
 class Solution {
     public int[] plusOne(int[] digits) {
-    
-    for (int position = digits.length - 1; position >= 0; position--) {
-        if (digits[position] < 9) {
-            digits[position]++;
-            
-            return digits;
+        int n = digits.length;
+
+        for(int i =n-1;i>=0;i--){
+            if(digits[i] <9){
+                digits[i] ++;
+                return digits;
+            }
+            digits[i] =0;
         }
-        
-        digits[position] = 0; 
-    }
-    
-    int[] incrementedArray = new int[digits.length + 1];
-    incrementedArray[0] = 1;
-    return incrementedArray;
-        
+
+        int [] new_number = new int[n+1];
+
+        new_number[0]=1;
+
+        return new_number;
     }
 }
