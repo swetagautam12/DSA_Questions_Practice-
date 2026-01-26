@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0645-set-mismatch) |
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
