@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0089-gray-code) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0342-power-of-four) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
+| [0189-rotate-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
