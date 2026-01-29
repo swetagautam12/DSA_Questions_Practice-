@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
 | [2733-neither-minimum-nor-maximum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3433-count-mentions-per-user) |
