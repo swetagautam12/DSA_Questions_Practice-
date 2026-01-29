@@ -592,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -786,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2236-root-equals-sum-of-children) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -877,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2236-root-equals-sum-of-children) |
 ## Doubly-Linked List
@@ -940,4 +944,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1305-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
