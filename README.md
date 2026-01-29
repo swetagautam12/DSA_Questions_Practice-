@@ -864,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2236-root-equals-sum-of-children) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -877,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2236-root-equals-sum-of-children) |
 ## Doubly-Linked List
 |  |
 | ------- |
