@@ -784,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -860,6 +861,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -872,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Doubly-Linked List
@@ -931,4 +934,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
