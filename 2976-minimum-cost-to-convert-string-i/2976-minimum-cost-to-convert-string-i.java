@@ -1,43 +1,44 @@
 class Solution {
     public long minimumCost(String source, String target, char[] original, char[] changed, int[] cost) {
-        long infinity = Integer.MAX_VALUE;
-        long [][] dist = new long [26][26];
-        for(int i =0; i<26;i++){
-            Arrays.fill(dist[i],infinity);
-            dist[i][i] =0;
 
+        int [][] dis = new int [26][26];
+        for(int i =0; i<26 ;i++){
+            Arrays.fill(dis[i] , Integer.MAX_VALUE);
+            dis[i][i]=0;
         }
-        for(int i =0;i<original.length; ++i){
+
+        for(int i =0; i<cost.length ;i++){
             int u = original[i] -'a';
-            int v = changed[i] -'a';
-
-            dist[u][v] = Math.min(dist[u][v],(long) cost[i]);
+            int v= changed[i] -'a';
+            dis[u][v] =Math.min(dis[u][v] ,cost[i]);
         }
-        for(int k =0;k<26;++k){
-            for(int i =0; i<26;++i){
-                for(int j =0; j<26;++j){
-                    if(dist[i][k] <infinity && dist [k][j] < infinity){
-                        dist [i] [j] =Math.min(dist[i][j] , dist[i][k] + dist[k] [j]);
 
-                    }
+        for(int k =0;k<26;k++){
+            for(int i =0;i<26;i++){
+                if(dis [i][k] ==Integer.MAX_VALUE) continue;
+
+                for(int j =0;j<26; j++){
+                    if(dis[k] [j] ==Integer.MAX_VALUE) continue;
+
+                    dis[i][j] =Math.min(dis[i][j] ,dis[i][k] +dis[k][j]);
                 }
             }
         }
-        long totalCost =0;
-        int n = source.length();
-        
-        for(int i=0;i<n; ++i){
-            int u=source.charAt(i)-'a';
-            int v = target.charAt(i) -'a';
 
-            if(dist[u][v] >=infinity){
-                return -1;
+        long totalCost =0L;
+        for(int i =0;i<source.length ();i++){
+            int c1 = source.charAt(i) -'a';
+            int c2 = target.charAt(i)-'a';
+
+            if(dis[c1][c2] ==Integer.MAX_VALUE){
+                return  -1L;
 
             }
-            totalCost +=dist[u][v];
-        }
 
+            totalCost +=(long) dis[c1][c2];
+        }
         return totalCost;
         
     }
+    
 }
