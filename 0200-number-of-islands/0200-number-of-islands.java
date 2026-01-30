@@ -1,41 +1,39 @@
 class Solution {
-    public static void utilityFn(char[][] grid,boolean vis[][],int i,int j,int r,int c){
-        //right
-        if(j+1<c && grid[i][j+1]=='1' && !vis[i][j+1]){
-            vis[i][j+1]=true;
-            utilityFn(grid,vis,i,j+1,r,c);
-        }
-        //left
-        if(j-1>=0 && grid[i][j-1]=='1' && !vis[i][j-1]){
-            vis[i][j-1]=true;
-            utilityFn(grid,vis,i,j-1,r,c);
-        }
-        //top
-        if(i-1>=0 && grid[i-1][j]=='1' && !vis[i-1][j]){
-            vis[i-1][j]=true;
-            utilityFn(grid,vis,i-1,j,r,c);
-        }
-        //bottom
-        if(i+1<r && grid[i+1][j]=='1' && !vis[i+1][j]){
-            vis[i+1][j]=true;
-            utilityFn(grid,vis,i+1,j,r,c);
-        }
-    }
     public int numIslands(char[][] grid) {
-        if(grid==null || grid.length==0) return 0;
-        int r=grid.length;
-        int c=grid[0].length;
-        boolean vis[][]=new boolean[r][c];
-        int islands=0;
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                if(grid[i][j]=='1' && !vis[i][j]){
-                    vis[i][j]=true;
-                    islands++;
-                    utilityFn(grid,vis,i,j,r,c);
+        int row = grid.length;
+        int col = grid[0].length;
+        boolean visited[][] = new boolean[row][col];
+        int isLands = 0;
+        for(int i = 0;i < row;i++){
+            for(int j = 0;j < col;j++){
+                if(grid[i][j] == '1' && !visited[i][j]){
+                    isLands++;
+                    bfs(i,j,grid,visited);
                 }
             }
         }
-        return islands; 
+        return isLands;
+    }
+    static void bfs(int r,int c,char [][] grid, boolean [][]visited){
+        Queue<int []> queue = new LinkedList<>();
+        queue.add(new int[] {r,c});
+        visited[r][c] = true;
+        int[][] dirs = {{1,0}, {-1,0}, {0,1}, {0,-1}};
+        while(!queue.isEmpty()){
+            int cell[] = queue.poll();
+            int row = cell[0];
+            int col = cell[1];
+            for(int [] d:dirs){
+                int nr = row + d[0];
+                int nc = col + d[1];
+
+                if(nr >= 0 && nc >= 0 && nr < grid.length 
+                && nc < grid[0].length && grid[nr][nc] == '1'
+                 && !visited[nr][nc]){
+                    visited[nr][nc] = true;
+                    queue.add(new int[]{nr, nc});
+                }
+            }
+        }
     }
 }
