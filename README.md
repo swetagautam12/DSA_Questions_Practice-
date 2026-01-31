@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0057-insert-interval) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0071-simplify-path) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
