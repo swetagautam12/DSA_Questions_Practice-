@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
+| [0709-to-lower-case](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0796-rotate-string) |
