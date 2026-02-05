@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
 | [0796-rotate-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0796-rotate-string) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0844-backspace-string-compare) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1004-max-consecutive-ones-iii) |
