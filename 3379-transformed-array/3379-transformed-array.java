@@ -1,0 +1,14 @@
+class Solution {
+    public int[] constructTransformedArray(int[] nums) {
+        int[] arr = new int [nums.length]; 
+        for(int i = 0; i < nums.length; i++) {
+            if(nums[i] > 0) {
+                arr[i] = nums[(i + nums[i]) % nums.length];
+            } else if(nums[i] < 0) {
+                int a = Math.abs(nums[i]) % nums.length;
+                arr[i] = nums[(i + nums.length - a) % nums.length];
+            }
+        }
+        return arr;
+    }
+}
