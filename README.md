@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Number Theory
 |  |
