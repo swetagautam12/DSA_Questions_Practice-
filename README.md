@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Math
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2390-removing-stars-from-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3174-clear-digits) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
