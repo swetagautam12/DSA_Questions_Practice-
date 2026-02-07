@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -767,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0189-rotate-array) |
@@ -1035,4 +1039,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
