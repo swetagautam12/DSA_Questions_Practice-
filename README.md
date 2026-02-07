@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3606-coupon-code-validator) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Geometry
