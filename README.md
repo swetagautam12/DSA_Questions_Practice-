@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0048-rotate-image) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
