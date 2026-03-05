@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0407-trapping-rain-water-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -674,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
@@ -792,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
