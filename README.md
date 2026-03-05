@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2402-meeting-rooms-iii) |
 | [2733-neither-minimum-nor-maximum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2733-neither-minimum-nor-maximum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -762,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2618-maximize-the-minimum-powered-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3453-separate-squares-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3454-separate-squares-ii) |
@@ -824,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
