@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0496-next-greater-element-i) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0242-valid-anagram/) | Easy |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0645-set-mismatch) |
