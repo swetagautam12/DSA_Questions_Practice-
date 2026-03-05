@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0046-permutations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0076-minimum-window-substring) |
