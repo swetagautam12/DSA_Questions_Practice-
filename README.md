@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0058-length-of-last-word) |
@@ -784,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0086-partition-list) |
@@ -1043,6 +1045,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0796-rotate-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0796-rotate-string) |
 ## Union-Find
 | Problem Name | Difficulty |
