@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0041-first-missing-positive](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0010-regular-expression-matching/) | Hard |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
@@ -882,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0219-contains-duplicate-ii) |
