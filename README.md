@@ -446,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1768-merge-strings-alternately) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2618-maximize-the-minimum-powered-city) |
