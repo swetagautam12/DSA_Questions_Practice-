@@ -1,5 +1,3 @@
-
-
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] arr) {
          int i = 0;
