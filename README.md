@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0503-next-greater-element-ii) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0342-power-of-four) |
+| [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 | Problem Name | Difficulty |
@@ -618,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0918-maximum-sum-circular-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
