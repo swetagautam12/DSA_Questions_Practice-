@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3074-apple-redistribution-into-boxes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3110-score-of-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3174-clear-digits) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -900,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2540-minimum-common-value) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
