@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1266-minimum-time-visiting-all-points) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 | Problem Name | Difficulty |
@@ -639,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -1026,6 +1030,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1895-largest-magic-square) |
@@ -1195,4 +1200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0347-top-k-frequent-elements) |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
