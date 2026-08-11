@@ -380,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1390-four-divisors) |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1642-water-bottles) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 | Problem Name | Difficulty |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -1207,8 +1210,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
