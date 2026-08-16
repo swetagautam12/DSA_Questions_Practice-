@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2023-design-movie-rental-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2023-design-movie-rental-system) |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
 | [2057-smallest-index-with-equal-value](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2057-smallest-index-with-equal-value) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1925-count-square-sum-triples) |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2119-a-number-after-a-double-reversal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 | Problem Name | Difficulty |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0347-top-k-frequent-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [2174-next-greater-numerically-balanced-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1223,15 +1228,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
