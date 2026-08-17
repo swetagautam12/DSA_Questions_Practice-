@@ -948,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -1106,6 +1107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -1125,6 +1127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0100-same-tree) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0114-flatten-binary-tree-to-linked-list) |
