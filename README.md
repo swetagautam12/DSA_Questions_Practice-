@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3516-find-closest-person) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3625-count-number-of-trapezoids-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
