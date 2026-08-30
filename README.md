@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
 | [2057-smallest-index-with-equal-value](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2057-smallest-index-with-equal-value) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2029-stone-game-ix/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2141-maximum-running-time-of-n-computers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
