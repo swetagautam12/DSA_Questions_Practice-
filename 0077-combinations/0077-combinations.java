@@ -1,26 +1,20 @@
 class Solution {
     public List<List<Integer>> combine(int n, int k) {
-        return combinations(new ArrayList<>(), k, n, 1);
+        List<List<Integer>> ans=new ArrayList<>();
+        helper(ans,new ArrayList<>(),n,k,1);
+        return ans;
     }
+    public void helper(List<List<Integer>> ans,List<Integer> temp,int n,int k,int s){
+        if(temp.size()==k){
+           ans.add(new ArrayList<>(temp));
+           return;
+        } 
+        if(s>n) return;
 
- 
-
-    List<List<Integer>> combinations(List<Integer> currentCombination, int k, int n, int index){
-        if(k == 0){
-            List<List<Integer>> list = new ArrayList<>();
-            list.add(new ArrayList<>(currentCombination));
-            return list;
+        for(int i=s;i<=n;i++){
+            temp.add(i);
+            helper(ans,temp,n,k,i+1);
+            temp.remove(temp.size()-1);
         }
-
-        List<List<Integer>> result = new ArrayList<>();
-
-        for (int i = index; i <= n; i++){
-            currentCombination.add(i);
-            result.addAll(combinations(currentCombination, k-1, n, i+1));
-            currentCombination.removeLast();
-        }
-
-        return result;
     }
-    
 }
