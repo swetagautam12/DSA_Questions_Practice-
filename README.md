@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3871-count-commas-in-range-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
