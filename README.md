@@ -1210,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0607-sales-person) |
 | [1179-reformat-department-table](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1179-reformat-department-table) |
+| [1517-find-users-with-valid-e-mails](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1527-patients-with-a-condition](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1527-patients-with-a-condition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
