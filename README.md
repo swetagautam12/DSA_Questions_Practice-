@@ -404,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0836-rectangle-overlap/) | Easy |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -1065,6 +1066,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0836-rectangle-overlap/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
