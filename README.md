@@ -557,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3606-coupon-code-validator](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3606-coupon-code-validator) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -869,6 +870,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3433-count-mentions-per-user) |
 | [3477-fruits-into-baskets-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3616-make-array-elements-equal-to-zero) |
