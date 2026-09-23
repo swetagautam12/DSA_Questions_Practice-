@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1612-avoid-flood-in-the-city) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1834-minimum-number-of-people-to-teach](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1980-find-unique-binary-string) |
@@ -900,6 +902,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1612-avoid-flood-in-the-city](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1612-avoid-flood-in-the-city) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1970-last-day-where-you-can-still-cross](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2054-two-best-non-overlapping-events) |
@@ -1038,6 +1041,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1112,6 +1116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1895-largest-magic-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1895-largest-magic-square) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2059-unique-length-3-palindromic-subsequences) |
