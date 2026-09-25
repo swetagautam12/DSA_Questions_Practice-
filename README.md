@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0041-first-missing-positive/) | Hard |
 | [0049-group-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0010-regular-expression-matching/) | Hard |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -990,6 +992,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0046-permutations) |
