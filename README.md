@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0010-regular-expression-matching/) | Hard |
+| [0014-longest-common-prefix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0022-generate-parentheses) |
@@ -1295,6 +1297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0014-longest-common-prefix/) | Easy |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Merge Sort
 | Problem Name | Difficulty |
