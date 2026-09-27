@@ -521,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -600,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -1335,4 +1337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
