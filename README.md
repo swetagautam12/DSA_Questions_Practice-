@@ -532,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1636-number-of-substrings-with-only-1s](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1441-build-an-array-with-stack-operations) |
 | [1544-make-the-string-great](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -1348,5 +1350,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
