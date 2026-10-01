@@ -1,15 +1,17 @@
 class Solution {
-    public boolean isValid(String s) {
-        Stack<Character >stack = new Stack<>();
-        for(char c:s.toCharArray()){
-            if(c=='(') stack.push(')');
-            else if(c=='{') stack.push('}');
-            else if (c =='[') stack.push(']');
-            else if(stack.isEmpty() || stack.pop() !=c){
-                return false;
+    public boolean isValid(String str) {
+        if (str.length() % 2 == 1)
+            return false;
 
-            }
-        }
-        return stack.isEmpty();
+        char[] S = str.toCharArray();
+        int j = 0;
+
+        for (char c : S)
+            if ((c & 3) != 1)
+                S[j++] = c;
+            else if (j == 0 || ((c - S[--j] + 1) >> 1) != 1)
+                return false;        
+
+        return j == 0;
     }
 }
