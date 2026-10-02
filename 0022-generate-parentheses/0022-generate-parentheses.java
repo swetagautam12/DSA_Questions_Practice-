@@ -1,25 +1,23 @@
 class Solution {
+    public static void func(List<String> list ,char[] ch, int index , int open , int close){
+        if(close==0  && open==0){
+            list.add(new String(ch));
+            return ;
+        }
+
+        if(open>0){
+            ch[index]='(';
+            func(list, ch , index+1, open - 1, close);
+        }
+        if(close> 0 && close>open){
+            ch[index]=')';
+            func(list, ch , index+1, open, close-1);
+        }
+    }
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<String>();
-        recurse(res, 0, 0, "", n);
-        return res;
+        List<String> list = new ArrayList<>();
+        char[] ch = new char[2*n];
+        func(list, ch , 0, n , n );
+        return list;
     }
-    
-    public void recurse(List<String> res, int left, int right, String s, int n) {
-        if (s.length() == n * 2) {
-            res.add(s);
-            return;
-        }
-        
-        if (left < n) {
-            recurse(res, left + 1, right, s + "(", n);
-        }
-        
-        if (right < left) {
-            recurse(res, left, right + 1, s + ")", n);
-        }
-    }
-	
-    
-    
 }
