@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0134-gas-station/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1323-maximum-69-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1323-maximum-69-number) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0709-to-lower-case](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0756-pyramid-transition-matrix) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -1355,6 +1359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
