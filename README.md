@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3640-trionic-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-trionic-array-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -791,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3676-smallest-number-with-all-set-bits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
