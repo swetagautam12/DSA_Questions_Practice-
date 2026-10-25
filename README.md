@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -1003,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0075-sort-colors) |
