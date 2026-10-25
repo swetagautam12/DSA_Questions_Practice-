@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0137-single-number-ii) |
@@ -814,6 +815,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1062,6 +1064,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0130-surrounded-regions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0322-coin-change) |
@@ -1134,6 +1137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
 | [0365-water-and-jug-problem](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0365-water-and-jug-problem) |
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -1337,6 +1341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0200-number-of-islands) |
 | [1254-number-of-closed-islands](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Search Tree
