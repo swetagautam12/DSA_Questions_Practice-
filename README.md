@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0496-next-greater-element-i) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0365-water-and-jug-problem](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0367-valid-perfect-square) |
 | [0445-add-two-numbers-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0523-continuous-subarray-sum) |
@@ -862,6 +864,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0611-valid-triangle-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0645-set-mismatch) |
