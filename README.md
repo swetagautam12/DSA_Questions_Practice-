@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3797-design-spreadsheet) |
@@ -483,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3625-count-number-of-trapezoids-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3871-count-commas-in-range-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3871-count-commas-in-range-ii/) | Medium |
