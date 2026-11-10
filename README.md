@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3640-trionic-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-trionic-array-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3693-climbing-stairs-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3640-trionic-array-ii) |
+| [3693-climbing-stairs-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Combinatorics
