@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0066-plus-one) |
@@ -830,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0063-unique-paths-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0073-set-matrix-zeroes) |
@@ -921,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0054-spiral-matrix/) | Medium |
+| [0059-spiral-matrix-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0068-text-justification](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1441-build-an-array-with-stack-operations) |
