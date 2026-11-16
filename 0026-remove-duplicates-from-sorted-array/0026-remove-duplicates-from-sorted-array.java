@@ -1,13 +1,15 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        var writePointer = 0;
-        var scanPointer = 0; 
-
-        while(scanPointer < nums.length){
-            if(nums[scanPointer] != nums[writePointer]) nums[++writePointer] = nums[scanPointer];
-            scanPointer++;
+        int i=0;
+        for(int j =1;j<nums.length;j++){
+            if(nums[i]!=nums[j]){
+                i++;
+                nums[i]=nums[j];
+            }
         }
+        return i+1;
 
-        return ++writePointer;
     }
+    
+     
 }
