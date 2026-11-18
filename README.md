@@ -603,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
