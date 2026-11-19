@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0830-largest-triangle-area) |
 | [0835-image-overlap](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0835-image-overlap/) | Medium |
 | [0840-magic-squares-in-grid](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0840-magic-squares-in-grid) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0853-car-fleet](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0877-stone-game/) | Medium |
@@ -990,6 +991,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0713-subarray-product-less-than-k) |
 | [0794-swim-in-rising-water](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0794-swim-in-rising-water) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -1468,4 +1470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
