@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1306-jump-game-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1323-maximum-69-number](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1390-four-divisors](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1390-four-divisors) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1510-stone-game-iv/) | Hard |
@@ -703,6 +705,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/0146-lru-cache) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2023-design-movie-rental-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2023-design-movie-rental-system) |
 | [2169-simple-bank-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/2429-design-a-food-rating-system) |
@@ -1239,6 +1242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1140-stone-game-ii/) | Medium |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1352-product-of-the-last-k-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1590-make-sum-divisible-by-p](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/master/1590-make-sum-divisible-by-p) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -1480,4 +1484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/swetagautam12/DSA_Questions_Practice-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
